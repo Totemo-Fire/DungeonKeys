@@ -1,0 +1,16 @@
+# Built program - distributed through GitHub Releases instead
+*.exe
+Release/
+
+# Personal data.
+DungeonKeys/
+accounts.json
+gamefolder.txt
+original-winDurango-backup.json
+winDurango.json
+
+# Windows / editor junk
+Thumbs.db
+Desktop.ini
+.vs/
+*.user
