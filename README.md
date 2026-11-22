@@ -4,7 +4,7 @@
 
 **Switch between your Happy Dungeons accounts with one click.**
 
-Dungeon Keys is a small Windows program by **Totemo Fire**. It saves your accounts and swaps the active one before you launch the game, so you don't have to have multiple game installations.
+Dungeon Keys is a small GUI Windows program by **Totemo Fire**. It saves your accounts and swaps the active one before you launch the game, so you don't have to have multiple game installations.
 
 ## Download
 
@@ -34,7 +34,7 @@ The exe isn't digitally signed, so Windows SmartScreen may say "Windows protecte
 
 ### "Windows blocked access"
 
-The program offers to restart with administrator permission. This is only asked when Windows blocks the game's files.
+The program offers to restart with administrator permission. This is only asked when Windows blocks writing to the game's user config file.
 
 ## Build from source
 
